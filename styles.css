@@ -82,6 +82,22 @@ li{
     
 }
 
+.meeting-section {
+    display: flex;
+    border: 1px solid #1f2937;
+    background-color: #3882f6;
+    color: white;
+    justify-content: space-between;
+    margin: 50px 100px;
+}
+
+.meeting-1 {
+    padding-left: 50px;
+}
+
+.meeting-2 {
+    padding-right: 100px;
+}
 .footer-section {
     text-align: center;
     margin-top: 50px;
